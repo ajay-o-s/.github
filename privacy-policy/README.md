@@ -1,6 +1,6 @@
 # AOS Privacy Policy
 
-This repository contains the official Privacy Policy for **AOS**, maintained by [ajayos](https://github.com/ajayos).
+This repository contains the official Privacy Policy for **AOS**, maintained by [ajayos](https://github.com/ajayos). 
 
 📜 View the live policy: [privacy.ajayos.in](https://privacy.ajayos.in)
 
