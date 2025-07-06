@@ -96,7 +96,7 @@ AOS also includes tools to help developers contribute and build faster:
 
 - 📖 **Full Docs**: [https://docs.ajayos.in](https://docs.ajayos.in)
 - 📄 **Privacy Policy**: [https://privacy.ajayos.in](https://privacy.ajayos.in)
-- 📃 **Terms & Conditions**: [https://docs.ajayos.in/terms](https://docs.ajayos.in/terms)
+- 📃 **Terms & Conditions**: [https://terms.ajayos.in/](https://terms.ajayos.in)
 - 🌐 **Main Website**: [https://ajayos.in](https://ajayos.in)
 
 ---
