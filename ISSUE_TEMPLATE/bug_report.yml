@@ -1,0 +1,52 @@
+name: "🔧 Bug Report"
+description: Report an issue or something that isn’t working as expected.
+labels: [bug]
+assignees:
+  - ajay-os
+  - keerthana-bot
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 🐛 What happened?
+      description: Clearly describe the issue you're facing.
+      placeholder: e.g., The login request fails with a 500 error when submitting valid credentials.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 🔁 Steps to Reproduce
+      description: Provide a step-by-step guide so we can replicate the issue.
+      placeholder: |
+        1. Go to the login page
+        2. Enter valid credentials
+        3. Click 'Login'
+        4. See error in console
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: 🧪 Environment
+      description: Include relevant info (OS, browser, Node version, etc.)
+      placeholder: e.g., Windows 11, Node v18.16.1, Chrome 113
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🚦 Priority Level
+      description: How urgent or disruptive is this issue?
+      options:
+        - 🔴 High – Critical functionality broken
+        - 🟠 Medium – Important but not urgent
+        - 🟢 Low – Minor or cosmetic issue
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 📎 Additional Context / Logs / Screenshots
+      description: Add any logs, screenshots, or references to related issues.
+      placeholder: You can drag and drop screenshots or paste stack traces here.

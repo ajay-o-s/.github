@@ -1,0 +1,46 @@
+name: "✨ Feature Request"
+description: Suggest a new feature, enhancement, or improvement to AOS projects.
+labels: [enhancement]
+assignees:
+  - ajay-os
+  - keerthana-bot
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: 💡 Feature Summary
+      placeholder: e.g., Add dark mode toggle to the dashboard
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 🧰 Feature Description
+      description: Explain the functionality and how it would help users or the project.
+      placeholder: Describe the behavior, UI changes, or API additions involved.
+
+  - type: textarea
+    id: use-case
+    attributes:
+      label: 🎯 Use Case / Motivation
+      description: Why do you need this feature? How will it be used?
+      placeholder: e.g., Helps users switch themes at night for better accessibility.
+
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: 🔍 Scope
+      description: Which area(s) of the project does this affect?
+      options:
+        - label: Backend
+        - label: Frontend (UI/UX)
+        - label: API Design
+        - label: Documentation
+        - label: DevOps / CI/CD
+        - label: Other
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: 📝 Additional Notes / References
+      description: Add mockups, links, related issues, or code snippets if any.
+      placeholder: Include visuals, code, or external references to clarify the request.
