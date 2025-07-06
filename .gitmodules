@@ -1,0 +1,9 @@
+[submodule "terms"]
+	path = terms
+	url = https://github.com/ajay-o-s/terms
+[submodule "privacy-policy"]
+	path = privacy-policy
+	url = https://github.com/ajay-o-s/privacy-policy
+[submodule "static-assets"]
+	path = static-assets
+	url = https://github.com/ajay-o-s/static-assets
