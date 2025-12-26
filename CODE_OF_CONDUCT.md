@@ -1,86 +1,111 @@
-# 📜 Contributor Code of Conduct
+# 📜 AOS Contributor Code of Conduct
 
-Welcome to the AOS (Ajay O S) project community!
+Welcome to **AOS (Ajay O S Platform)**.
 
-We are committed to fostering a respectful, safe, and inclusive environment for everyone who participates in our projects—regardless of age, ability, background, ethnicity, gender identity, level of experience, nationality, race, religion, or sexual orientation.
+AOS is committed to building a **respectful, safe, and inclusive community** for everyone who participates in its projects.  
+This Code of Conduct outlines the expectations for all contributors and maintainers to ensure a positive and collaborative environment.
 
 ---
 
-## 🤝 Our Pledge
+## 🤝 Our Commitment
 
-We pledge to make participation in our community a harassment-free experience for everyone. We commit to:
+We are dedicated to fostering a harassment-free experience for all participants, regardless of:
 
-- Creating a friendly and respectful space
-- Supporting open collaboration and thoughtful dialogue
-- Listening, learning, and evolving with our contributors
+- Age
+- Ability
+- Background
+- Ethnicity
+- Gender identity or expression
+- Level of experience
+- Nationality
+- Race
+- Religion
+- Sexual orientation
+
+Participation in AOS projects should always be professional, welcoming, and constructive.
 
 ---
 
 ## ✅ Expected Behavior
 
-We expect all participants to follow these values in all community spaces—both online and offline:
+All community members are expected to:
 
-- ✨ Be kind, patient, and respectful
-- 💬 Give and gracefully accept constructive feedback
-- 🤝 Respect differing opinions, experiences, and backgrounds
+- ✨ Be respectful, considerate, and professional
+- 💬 Give and receive constructive feedback gracefully
+- 🤝 Respect different viewpoints and experiences
 - 🔄 Collaborate openly and transparently
-- 🙌 Help others, especially newcomers
-- 🧠 Use inclusive language in all communications and documentation
+- 🙌 Support and encourage others, especially newcomers
+- 🧠 Use inclusive and respectful language in all communications
+
+These expectations apply to all forms of interaction within the AOS ecosystem.
 
 ---
 
 ## 🚫 Unacceptable Behavior
 
-The following behaviors are strictly prohibited:
+The following behaviors are not tolerated:
 
-- ❌ Harassment, bullying, or discriminatory remarks
-- ❌ Trolling, name-calling, or personal attacks
-- ❌ Publishing others' private information without consent
-- ❌ Disruptive behavior in community discussions, commits, or issues
-- ❌ Any form of sexual language or unwelcome advances
+- ❌ Harassment, intimidation, or discriminatory remarks
+- ❌ Personal attacks, trolling, or inflammatory comments
+- ❌ Sharing private or confidential information without consent
+- ❌ Disruptive behavior that hinders collaboration
+- ❌ Sexual language, imagery, or unwelcome advances
+
+Such actions undermine the community and will be addressed promptly.
 
 ---
 
 ## 🔒 Scope
 
-This Code of Conduct applies to all community spaces, including:
+This Code of Conduct applies to all AOS-related spaces, including but not limited to:
 
-- GitHub repositories (issues, PRs, discussions)
+- GitHub repositories (issues, pull requests, discussions)
+- Project documentation and commit messages
 - Communication channels (email, chat, forums)
-- Offline or virtual events, meetings, and video calls
+- Online or in-person meetings and events
 
 ---
 
-## 🛠 Enforcement & Reporting
+## 🛠 Reporting & Enforcement
 
-If you witness or experience any behavior that violates this Code of Conduct, please report it immediately and privately to the AOS maintainers.
+If you experience or observe behavior that violates this Code of Conduct, please report it privately.
 
-📧 Contact: [ajayosakhub@gmail.com](mailto:ajayosakhub@gmail.com)
+📧 **Contact:** [report@ajayos.in](mailto:report@ajayos.in)
 
-We promise to handle reports discreetly and respectfully. Actions may include:
+All reports will be:
+- Handled confidentially
+- Reviewed fairly and respectfully
+- Acted upon when necessary
 
-- Warning the offender
-- Temporary or permanent ban from the community
-- Removal from projects or events
+Possible enforcement actions include:
+- A formal warning
+- Temporary restriction from participation
+- Permanent removal from the community
 
-All enforcement decisions will be made by project maintainers and are final.
+All enforcement decisions are made by AOS maintainers and are final.
 
 ---
 
-## 🙌 Our Responsibility
+## 🙌 Maintainer Responsibilities
 
 Project maintainers are responsible for:
 
-- Clarifying and enforcing the standards of acceptable behavior
-- Responding appropriately to violations
-- Ensuring a respectful and inclusive space for everyone
+- Clarifying acceptable behavior
+- Enforcing this Code of Conduct consistently
+- Responding promptly to reported issues
+- Maintaining a welcoming and inclusive environment
 
 ---
 
 ## 🤗 Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/) version 2.1, with modifications suited for the AOS community.
+This Code of Conduct is inspired by the  
+[Contributor Covenant](https://www.contributor-covenant.org/) version 2.1, adapted to align with the goals and values of the AOS platform.
 
 ---
 
-> 🚀 Let’s build great things — together, respectfully.
+> 🚀 Build thoughtfully  
+> 🤝 Collaborate respectfully  
+> 🛠️ Grow together  
+
+Thank you for helping make **AOS** a positive and inclusive community.

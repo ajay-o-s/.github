@@ -1,49 +1,87 @@
-# 🛡️ Security Policy
+# 🛡️ Security Policy — AOS
 
-AOS is committed to ensuring the security and integrity of our codebase and services. We take vulnerabilities seriously and appreciate your help in responsibly disclosing them.
+Security is a top priority for **AOS (Ajay O S Platform)**.  
+We are committed to protecting our users, contributors, and infrastructure by addressing security issues responsibly and promptly.
+
+We appreciate the efforts of security researchers and community members who help keep AOS secure.
 
 ---
 
 ## 📅 Supported Versions
 
-We follow a **rolling support policy** and continuously maintain the latest active code.
+AOS follows a **rolling support model**.
 
-| Version     | Status     |
-|-------------|------------|
-| 2025+       | ✅ Supported |
-| Older (<2025) | ❌ Not Supported |
+Only the latest actively maintained versions are supported with security updates.
 
----
+| Version Range | Support Status |
+|--------------|----------------|
+| Current (2026+) | ✅ Supported |
+| Older versions | ❌ Not Supported |
 
-## 🐞 Reporting a Vulnerability
-
-If you believe you've found a security vulnerability or critical issue, please report it confidentially and responsibly.
-
-📧 Email: [ajayosakhub@gmail.com](mailto:ajayosakhub@gmail.com)
-
-Please include as much detail as possible:
-- Description of the vulnerability
-- Steps to reproduce
-- Affected components or files
-- Suggested fixes or mitigations (if known)
-
-We aim to acknowledge reports within **48 hours** and resolve critical issues quickly, with private coordination before any public disclosure.
+Security fixes are applied to the current production codebase.  
+Older versions may not receive patches.
 
 ---
 
-## 🔐 Coordinated Disclosure
+## 🐞 Reporting a Security Vulnerability
 
-We prefer responsible disclosure and private discussion to ensure all users are protected before details are published. Once fixed, we may publish advisories and changelogs if necessary.
+If you believe you have discovered a security vulnerability, please report it **privately and responsibly**.
+
+📧 **Contact:** [report@gmail.com](mailto:report@gmail.com)
+
+When reporting, please include:
+- A clear description of the issue
+- Steps to reproduce the vulnerability
+- Affected components or services
+- Potential impact
+- Suggested mitigation or fix (if available)
 
 ---
 
-## 🚫 Do Not
+## ⏱️ Response Expectations
+
+We aim to:
+- Acknowledge reports within **48 hours**
+- Assess severity promptly
+- Coordinate fixes responsibly
+- Communicate progress when appropriate
+
+Critical vulnerabilities are prioritized for immediate resolution.
+
+---
+
+## 🔐 Responsible Disclosure
+
+AOS follows a **coordinated disclosure** process:
+
+- Vulnerabilities should **not** be disclosed publicly before a fix is released
+- We may publish security advisories or changelog notes after remediation
+- Credit may be given to reporters (with consent)
+
+This approach helps protect users while ensuring transparency.
+
+---
+
+## 🚫 Prohibited Actions
 
 Please **do not**:
-- Share vulnerabilities publicly before disclosure and patching
-- Use exploits on production systems or user accounts
-- Perform any testing that violates user privacy or service integrity
+- Publicly disclose vulnerabilities before remediation
+- Exploit vulnerabilities on production systems
+- Access or modify user data without authorization
+- Perform testing that disrupts services or violates privacy
+
+Any testing must be conducted ethically and responsibly.
 
 ---
 
-> Thank you for helping us keep AOS and its users secure.
+## 🤝 Our Commitment
+
+AOS is committed to:
+- Treating security reports seriously
+- Handling disclosures respectfully and confidentially
+- Maintaining trust with our users and contributors
+
+---
+
+> 🛡️ Security is a shared responsibility.  
+> Thank you for helping keep **AOS** safe and reliable.
