@@ -1,264 +1,155 @@
 # 🚀 AOS — Ajay O S Platform
 
-![AOS](https://img.shields.io/badge/AOS-Core--First-blue)
+![AOS](https://img.shields.io/badge/AOS-Platform-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Architecture](https://img.shields.io/badge/architecture-core%20%2B%20microservices-orange)
-![Auth](https://img.shields.io/badge/auth-JWT%20%7C%20OAuth%202.0-purple)
-![IoT](https://img.shields.io/badge/iot-RaspberryPi%20%7C%20ESP32%20%7C%20Arduino-green)
+![Architecture](https://img.shields.io/badge/type-technology%20platform-orange)
+![Focus](https://img.shields.io/badge/focus-automation%20%7C%20apps%20%7C%20iot-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-**AOS (Ajay O S)** is a startup-driven technology platform built around a **core-first architecture**, combining **centralized system logic** with **scalable microservices**, **automation engines**, and **IoT integrations**.
+**AOS (Ajay O S)** is a startup-driven technology platform focused on building secure web applications, developer tools, automation services, and connected device solutions under a unified ecosystem.
 
-AOS powers all applications and services under **[ajayos.in](https://ajayos.in)**, with a strong focus on **security**, **automation**, and **developer productivity**.
+The platform powers products and services across the **Ajayos** domain family, with an emphasis on reliability, usability, and long-term scalability.
 
 ---
-
 
 ## 🧭 Vision
 
-> Build a unified system platform that enables secure applications, intelligent automation, and connected devices — all driven by a single, trusted core.
+> Create a unified platform that delivers useful digital tools, intelligent automation, and connected experiences through a secure and consistent ecosystem.
 
-AOS is designed as a **long-term startup platform**, not a collection of disconnected tools.
-
----
-
-## 🧠 Architecture Philosophy
-
-AOS follows a **hybrid architecture model**:
-
-### 🧩 AOS Core (Central Authority)
-The heart of the platform.  
-Defines **rules**, **security**, and **consistency**.
-
-- Identity & authentication
-- Authorization & permissions
-- API contracts & validation
-- Shared UI system & theming
-- Configuration & feature control
+AOS aims to evolve as a long-term technology initiative rather than a collection of unrelated products.
 
 ---
 
-### 🔗 Microservices for Automation & Scale
-Traditional microservices are used **where they make sense**:
+## 🧠 Platform Approach
 
-- Automation engines
-- Bots & workers
-- Webhook processors
-- Integrations
-- Messaging services
-- IoT data handlers
-- Background processing
-- Event-driven workflows
+AOS develops and operates a range of solutions including:
 
-This avoids unnecessary complexity while enabling scale and flexibility.
-This approach balances **consistency** with **scalability**.
+- Web applications and online tools  
+- APIs and developer services  
+- Automation workflows and integrations  
+- Digital and physical products  
+- Connected device (IoT) solutions  
+- Documentation and learning resources  
 
-
-## 🏗️ High-Level Architecture
-
-```
-
-AOS Core (Single Source of Truth)
-├─ Authentication & Identity
-├─ Security & Permissions
-├─ API Gateway & Contracts
-├─ UI System & Theme Engine
-└─ Configuration Management
-
-Microservices Layer
-├─ Automation Workers
-├─ Email & OTP Services
-├─ Webhook Routers
-├─ GitHub / Google Integrations
-├─ Messaging & Bot Services
-├─ Job Queues & Workers
-└─ IoT Processing Services
-
-```
-
-## 🔐 Authentication & Security
-
-AOS implements a modern, extensible authentication system:
-
-- 🔑 JWT (access & refresh tokens)
-- 🔐 OAuth 2.0 (Google, GitHub, more)
-- 🧾 Token-based API access
-- 🔄 Device & session management
-- 🛡️ Centralized permission enforcement
-
-All security decisions are enforced by **AOS Core**, ensuring consistent behavior across every application and service.
+All products are designed to work cohesively within a single platform experience.
 
 ---
 
-## 🌐 Backend Platform
+## 🌐 Core Platform Areas
 
-**`api.ajayos.in`** is the central backend gateway.
+### 🔗 Applications & Services
+User-facing applications delivered via the web, including dashboards, tools, and service interfaces.
 
-Responsibilities:
-- Authentication & authorization
-- API routing & validation
-- Automation orchestration
-- Webhook handling
-- Service-to-service communication
+### ⚙️ APIs & Developer Tools
+Programmatic access for integrations, automation, and custom development.
 
-Microservices integrate through this gateway using strict contracts.
+### 🤖 Automation & Integrations
+Systems that enable task automation, event-driven workflows, and third-party connectivity.
 
----
-
-## 🎨 Unified UI System
-
-All AOS products share a **common UI foundation**:
-
-- Reusable React component library
-- Centralized design language
-- Theme & branding consistency
-- Accessibility-first layouts
-
-Apps are deployed independently but feel unified.
+### 🌍 IoT & Device Integration
+Support for connected hardware and edge devices for real-world automation scenarios.
 
 ---
 
-## 🤖 Automation Platform
+## 🔐 Security & Access
 
-Automation is a core pillar of AOS.
+Security is a foundational principle of AOS.
 
-Includes services for:
-- GitHub workflow automation
-- Google account integrations
-- Webhook forwarding & transformation
-- Chatbots & messaging systems
-- Scheduled and event-driven jobs
+Platform features may include:
 
-Automation services run as **independent microservices**.
+- Secure authentication systems  
+- Controlled API access  
+- Permission-based features  
+- Responsible data handling  
 
----
-
-## 🌍 IoT & Edge Computing
-
-AOS supports secure IoT and edge integrations, including:
-
-- Raspberry Pi
-- ESP32
-- NodeMCU
-- Arduino-based controllers
-- Linux edge devices
-
-Use cases:
-- Device provisioning
-- Secure API communication
-- Automation triggers
-- Data collection & processing
+Users interact with services through authenticated and monitored interfaces.
 
 ---
 
-## 🗺️ Roadmap & Milestones
+## 🎨 Unified User Experience
 
-### ✅ Phase 1 — Foundation
-- AOS Core architecture
-- Central authentication system
-- Shared UI foundation
-- API gateway setup
+AOS products aim to maintain a consistent design and usability standard across applications:
 
-### 🚧 Phase 2 — Automation Expansion
-- Advanced webhook routing
-- GitHub & Google automation services
-- Background workers & schedulers
-- Improved monitoring & logging
+- Modern web interfaces  
+- Responsive layouts  
+- Reusable components  
+- Accessibility-conscious design  
+- Cohesive branding  
 
-### 🔜 Phase 3 — IoT & Edge Growth
-- Secure device onboarding
-- ESP32 / Pi automation flows
-- Edge-triggered workflows
-- IoT dashboard integration
+---
 
-### 🔮 Phase 4 — Platform Maturity
-- Public SDKs & APIs
-- Plugin system for automations
-- Advanced analytics & observability
-- Selective open-source releases
+## 🗺️ Roadmap
+
+### ✅ Foundation
+- Core platform setup  
+- Initial applications and APIs  
+- Documentation and policies  
+
+### 🚧 Expansion
+- Additional tools and services  
+- Automation features  
+- Developer resources  
+
+### 🔜 Growth
+- Expanded integrations  
+- IoT and device capabilities  
+- Enhanced platform features  
 
 ---
 
 ## 🔐 Security & Responsible Disclosure
 
-Security is taken seriously at AOS.
+If you discover a security issue:
 
-If you discover a vulnerability:
-- ❌ Do **not** open a public issue
-- ✅ Report responsibly via email
+- ❌ Do **not** disclose publicly  
+- ✅ Report responsibly via email  
 
-📧 **security@ajayos.in**  
-(or) **mail@ajayos.in**
+📧 **security@ajayos.com**  
+(or) **mail@ajayos.com**
 
-We commit to:
-- Timely acknowledgment
-- Responsible fixes
-- Coordinated disclosure where applicable
+We aim to address valid reports promptly and responsibly.
 
 ---
 
-## 📦 Repository Scope
+## 📦 Public Scope
 
-### Public
-- Documentation
-- Developer tools & utilities
-- Templates & starter projects
-- Selected automation tools
-- Open-source components
+Publicly available materials may include:
 
-### Private
-- AOS Core implementation
-- Authentication & security logic
-- Production automation services
-- IoT provisioning systems
-- Internal CI/CD & infrastructure
+- Documentation  
+- Developer utilities  
+- Templates and examples  
+- Selected open-source projects  
+- Platform information  
 
-> Internal implementation details are intentionally not exposed.
-
----
-
-## 🧰 Technology Stack (Overview)
-
-| Layer | Technologies |
-|------|-------------|
-| Backend | Node.js, Express |
-| Frontend | React, Vite, Tailwind CSS, MUI |
-| Auth & Security | JWT, OAuth 2.0 |
-| Automation | Workers, Webhooks, Job Queues |
-| Databases | MongoDB, MySQL, Redis |
-| IoT & Edge | Raspberry Pi, ESP32, NodeMCU, Arduino |
-| DevOps | Docker, NGINX, GitHub Actions |
+Some components and operational details remain private.
 
 ---
 
 ## 📚 Documentation & Policies
 
-- 🌐 Website: https://ajayos.in  
-- 📘 Documentation: https://docs.ajayos.in  
-- 🔐 Privacy Policy: https://privacy.ajayos.in  
-- 📄 Terms & Conditions: https://terms.ajayos.in  
+- 🌐 Website: https://ajayos.com 
+- 📘 Documentation: https://docs.ajayos.com  
+- 🔐 Privacy Policy: https://privacy.ajayos.com  
+- 📄 Terms & Conditions: https://terms.ajayos.com  
 
 ---
 
-## 👤 Founder & Maintainer
+## 👤 Founder
 
-**Ajay O S**  
-Founder — AOS Platform
+**Ajay O S**
 
-- GitHub (Main): https://github.com/ajayos  
-- GitHub (Core Org): https://github.com/ajay-o-s  
-- Website: https://ajayos.in  
+- GitHub: https://github.com/ajayos  
+- Website: https://ajayos.com  
 
-AOS is built as a **long-term platform**, focused on stability, security, and automation-first development.
+AOS is developed as an independent startup initiative focused on building practical, secure, and scalable technology solutions.
 
 ---
 
 ## 📄 License
 
-Public repositories under AOS are released under the **MIT License**, unless stated otherwise.  
-Private repositories remain proprietary.
+Public repositories are released under the **MIT License** unless otherwise specified.  
+Some components may remain proprietary.
 
 ---
 
-> 🚀 **AOS — Core-First. Automation-Driven. Built to Scale.**  
-> 🛠️ Designed as a platform, not just a product.
+> 🚀 **AOS — A Unified Technology Platform for Apps, Automation, and Connected Solutions**
